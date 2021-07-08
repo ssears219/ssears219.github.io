@@ -1,40 +1,40 @@
-- name: First Project
+- name: Health Insurance Cross Sell
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
-  description: 
-- name: Second Project
+  link: https://github.com/ssears219/Health-Insurance-Cross-Sell
+  description: Identifying health insurance customers who would be interested in vehicle insurance
+- name: Loan Default Prediction
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
-  description: 
+  link: https://github.com/ssears219/Loan-Default-Prediction
+  description: Predicting if a potential borrower will default on their loan using Lending Club data
 - name: Third Project
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link:
   description: 
-- name: Fourth Project
+- name: Chatbot Intent Architecture
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
-  description: 
-- name: Fifth Project
+  link: https://github.com/ssears219/Chatbot-Intent-Architecture
+  description: Creating a chatbot intent architecture using clustering methods
+- name: Predicting Hospital Readmission for Diabetic Patients
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
-  description: 
-- name: Sixth Project
+  link: https://github.com/ssears219/Predicting-Hospital-Readmission-For-Diabetic-Patients#predicting-hospital-readmission-for-diabetic-patients
+  description: Predicting if a diabetic patient will be readmitted to the hospital
+- name: Aviation Safety Data Visualization
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
-  description: 
-- name: Seventh Project
+  link: https://github.com/ssears219/Aviation-Safety-Data-Visualization
+  description: Data exploration, analysis, and visualization related to aviation safety including a dashboard, executive summary, blog post, infographic, and video animation
+- name: NFL Game Data Cleaning and Merging
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
-  description: 
-- name: Eighth Project
+  link: https://github.com/ssears219/NFL-Game-Data-Cleaning-and-Merging
+  description: Gathered and processed data from flat file, website, and api sources and merged into a complete NFL game dataset including information on game results, season statistics, and weather information
+- name: Dodgers Promotion
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
-  description: 
-- name: Ninth Project
+  link: https://github.com/ssears219/Dodgers-Promotion
+  description: Using a regression model to choose the best night to have a promotion at Dodgers baseball game
+- name: Text Generation Exercise with Keras
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
-  description: 
-- name: Tenth Project
+  link: https://github.com/ssears219/Text-Generation-Exercise-with-Keras
+  description: Training a text generation model with Keras
+- name: Image Classifcation Exercises With Keras
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
-  description: 
+  link: https://github.com/ssears219/Image-Classifcation-Exercises-With-Keras
+  description: Using various neural networks and datasets for image classifications
