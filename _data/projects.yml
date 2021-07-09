@@ -21,7 +21,7 @@
 - name: Aviation Safety Data Visualization
   image: https://cdn.pixabay.com/photo/2018/09/25/17/14/aircraft-3702676_960_720.jpg
   link: https://ssears219.github.io/Aviation-Safety-Data-Visualization/
-  description: Data exploration, analysis, and visualization including a dashboard, executive summary, blog post, infographic, and video animation
+  description: Exploratory data analysis and visualization including a dashboard, executive summary, blog post, infographic, and animation
 - name: NFL Game Data Processing
   image: https://cdn.pixabay.com/photo/2018/07/25/12/55/american-3561339_960_720.jpg
   link: https://ssears219.github.io/NFL-Game-Data-Cleaning-and-Merging/
