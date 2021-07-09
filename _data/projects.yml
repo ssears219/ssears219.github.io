@@ -25,7 +25,7 @@
 - name: NFL Game Data Processing
   image: https://cdn.pixabay.com/photo/2018/07/25/12/55/american-3561339_960_720.jpg
   link: https://ssears219.github.io/NFL-Game-Data-Cleaning-and-Merging/
-  description: Gathered and processed data from flat file, website, and api source and merged into a complete dataset
+  description: Gathering and processing data from flat file, website, and api sources and merging into a complete dataset
 - name: Dodgers Promotion
   image: https://cdn.pixabay.com/photo/2017/07/04/20/29/baseball-2472519_960_720.jpg
   link: https://ssears219.github.io/Dodgers-Promotion/
