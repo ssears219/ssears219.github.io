@@ -1,6 +1,6 @@
 - name: Health Insurance Cross Sell
   image: https://cdn.pixabay.com/photo/2017/02/20/14/18/health-2082630_960_720.jpg
-  link: https://github.com/ssears219/Health-Insurance-Cross-Sell
+  link: https://ssears219.github.io/Health-Insurance-Cross-Sell/
   description: Identifying health insurance customers who would be interested in vehicle insurance
 - name: Loan Default Prediction
   image: https://cdn.pixabay.com/photo/2015/02/07/07/39/analysis-626881_960_720.jpg
@@ -12,23 +12,23 @@
   description: 
 - name: Chatbot Intent Architecture
   image: https://cdn.pixabay.com/photo/2019/03/21/15/51/chatbot-4071274_960_720.jpg
-  link: https://github.com/ssears219/Chatbot-Intent-Architecture
+  link: https://ssears219.github.io/Chatbot-Intent-Architecture
   description: Creating a chatbot intent architecture using clustering methods
 - name: Predicting Hospital Readmission for Diabetic Patients
   image: https://cdn.pixabay.com/photo/2016/10/08/20/52/diabetes-1724617_960_720.jpg
-  link: https://github.com/ssears219/Predicting-Hospital-Readmission-For-Diabetic-Patients#predicting-hospital-readmission-for-diabetic-patients
+  link: https://ssears219.github.io/Predicting-Hospital-Readmission-For-Diabetic-Patients/
   description: Predicting if a diabetic patient will be readmitted to the hospital
 - name: Aviation Safety Data Visualization
   image: https://cdn.pixabay.com/photo/2018/09/25/17/14/aircraft-3702676_960_720.jpg
-  link: https://github.com/ssears219/Aviation-Safety-Data-Visualization
+  link: https://ssears219.github.io/Aviation-Safety-Data-Visualization/
   description: Data exploration, analysis, and visualization related to aviation safety including a dashboard, executive summary, blog post, infographic, and video animation
 - name: NFL Game Data Cleaning and Merging
   image: https://cdn.pixabay.com/photo/2018/07/25/12/55/american-3561339_960_720.jpg
-  link: https://github.com/ssears219/NFL-Game-Data-Cleaning-and-Merging
+  link: https://ssears219.github.io/NFL-Game-Data-Cleaning-and-Merging/
   description: Gathered and processed data from flat file, website, and api sources and merged into a complete NFL game dataset including information on game results, season statistics, and weather information
 - name: Dodgers Promotion
   image: https://cdn.pixabay.com/photo/2017/07/04/20/29/baseball-2472519_960_720.jpg
-  link: https://github.com/ssears219/Dodgers-Promotion
+  link: https://ssears219.github.io/Dodgers-Promotion/
   description: Using a regression model to choose the best night to have a promotion at Dodgers baseball game
 - name: Text Generation Exercise with Keras
   image: https://cdn.pixabay.com/photo/2017/01/18/08/25/social-media-1989152_960_720.jpg
