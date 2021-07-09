@@ -13,28 +13,28 @@
 - name: Chatbot Intent Architecture
   image: https://cdn.pixabay.com/photo/2019/03/21/15/51/chatbot-4071274_960_720.jpg
   link: https://ssears219.github.io/Chatbot-Intent-Architecture
-  description: Creating a chatbot intent architecture using clustering methods
-- name: Predicting Hospital Readmission for Diabetic Patients
+  description: Creating a chatbot intent architecture using various clustering methods
+- name: Predicting Hospital Readmission
   image: https://cdn.pixabay.com/photo/2016/10/08/20/52/diabetes-1724617_960_720.jpg
   link: https://ssears219.github.io/Predicting-Hospital-Readmission-For-Diabetic-Patients/
   description: Predicting if a diabetic patient will be readmitted to the hospital
 - name: Aviation Safety Data Visualization
   image: https://cdn.pixabay.com/photo/2018/09/25/17/14/aircraft-3702676_960_720.jpg
   link: https://ssears219.github.io/Aviation-Safety-Data-Visualization/
-  description: Data exploration, analysis, and visualization related to aviation safety including a dashboard, executive summary, blog post, infographic, and video animation
-- name: NFL Game Data Cleaning and Merging
+  description: Data exploration, analysis, and visualization including a dashboard, executive summary, blog post, infographic, and video animation
+- name: NFL Game Data Processing
   image: https://cdn.pixabay.com/photo/2018/07/25/12/55/american-3561339_960_720.jpg
   link: https://ssears219.github.io/NFL-Game-Data-Cleaning-and-Merging/
-  description: Gathered and processed data from flat file, website, and api sources and merged into a complete NFL game dataset including information on game results, season statistics, and weather information
+  description: Gathered and processed data from flat file, website, and api source and merged into a complete dataset
 - name: Dodgers Promotion
   image: https://cdn.pixabay.com/photo/2017/07/04/20/29/baseball-2472519_960_720.jpg
   link: https://ssears219.github.io/Dodgers-Promotion/
   description: Using a regression model to choose the best night to have a promotion at Dodgers baseball game
-- name: Text Generation Exercise with Keras
+- name: Text Generation Exercise
   image: https://cdn.pixabay.com/photo/2017/01/18/08/25/social-media-1989152_960_720.jpg
   link: https://ssears219.github.io/Text-Generation-Exercise-with-Keras/
-  description: Training a text generation model with Keras
-- name: Image Classifcation Exercises With Keras
+  description: Training a text generation neural network with Keras
+- name: Image Classifcation Exercise
   image: https://cdn.pixabay.com/photo/2018/12/06/10/44/algorithm-3859537_960_720.jpg
   link: https://ssears219.github.io/Image-Classifcation-Exercises-With-Keras/
   description: Using various neural networks and datasets for image classifications
