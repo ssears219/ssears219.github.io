@@ -13,11 +13,11 @@
 - name: Chatbot Intent Architecture
   image: https://cdn.pixabay.com/photo/2019/03/21/15/51/chatbot-4071274_960_720.jpg
   link: https://ssears219.github.io/Chatbot-Intent-Architecture
-  description: Creating a chatbot intent architecture using various clustering methods<br>
+  description: Creating a chatbot intent architecture using various clustering methods<br><br>
 - name: Predicting Hospital Readmission
   image: https://cdn.pixabay.com/photo/2016/10/08/20/52/diabetes-1724617_960_720.jpg
   link: https://ssears219.github.io/Predicting-Hospital-Readmission-For-Diabetic-Patients/
-  description: Predicting if a diabetic patient will be readmitted to the hospital<br>
+  description: Predicting if a diabetic patient will be readmitted to the hospital<br><br>
 - name: Aviation Safety Data Visualization
   image: https://cdn.pixabay.com/photo/2018/09/25/17/14/aircraft-3702676_960_720.jpg
   link: https://ssears219.github.io/Aviation-Safety-Data-Visualization/
@@ -33,8 +33,8 @@
 - name: Text Generation Exercise
   image: https://cdn.pixabay.com/photo/2017/01/18/08/25/social-media-1989152_960_720.jpg
   link: https://ssears219.github.io/Text-Generation-Exercise-with-Keras/
-  description: Training a text generation neural network with Keras<br><br><br>
+  description: Training a text generation neural network with Keras<br><br><br><br>
 - name: Image Classifcation
   image: https://cdn.pixabay.com/photo/2018/12/06/10/44/algorithm-3859537_960_720.jpg
   link: https://ssears219.github.io/Image-Classifcation-Exercises-With-Keras/
-  description: Using various neural networks and datasets for image classifications<br><br>                      
+  description: Using various neural networks and datasets for image classifications<br><br><br>                 
