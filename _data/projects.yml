@@ -1,7 +1,7 @@
 - name: Health Insurance Cross Sell
   image: https://cdn.pixabay.com/photo/2017/02/20/14/18/health-2082630_960_720.jpg
   link: https://ssears219.github.io/Health-Insurance-Cross-Sell/
-  description: Identifying health insurance <br> customers who would be interested in vehicle insurance
+  description: Identifying health insurance customers who would be interested in vehicle insurance
 - name: Loan Default Prediction
   image: https://cdn.pixabay.com/photo/2015/02/07/07/39/analysis-626881_960_720.jpg
   link: https://ssears219.github.io/Loan-Default-Prediction/
@@ -9,7 +9,7 @@
 - name: Third Project
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link:
-  description:
+  description: <br><br><br><br><br>
 - name: Chatbot Intent Architecture
   image: https://cdn.pixabay.com/photo/2019/03/21/15/51/chatbot-4071274_960_720.jpg
   link: https://ssears219.github.io/Chatbot-Intent-Architecture
