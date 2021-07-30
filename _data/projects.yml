@@ -6,7 +6,7 @@
   image: https://cdn.pixabay.com/photo/2015/02/07/07/39/analysis-626881_960_720.jpg
   link: https://ssears219.github.io/Loan-Default-Prediction/
   description: Predicting if a potential borrower will default on their loan using Lending Club data
-- name: Abusive-Chat-Detection
+- name: Abusive Chat Detection
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link: https://ssears219.github.io/Abusive-Chat-Detection
   description: Automatic detection of abusive chat messages <br>
