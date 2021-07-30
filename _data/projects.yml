@@ -9,7 +9,7 @@
 - name: Abusive Chat Detection
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link: https://ssears219.github.io/Abusive-Chat-Detection
-  description: Automatic detection of abusive chat messages <br>
+  description: Automatic detection of abusive chat messages <br> <br>
 - name: Chatbot Intent Architecture
   image: https://cdn.pixabay.com/photo/2019/03/21/15/51/chatbot-4071274_960_720.jpg
   link: https://ssears219.github.io/Chatbot-Intent-Architecture
